@@ -1,5 +1,5 @@
 {
-	"host": "game5.falixserver.net",
+	"host": "46.4.95.80:59958",
 	"port": "59958",
 	"username": "bot",
 	"logger": [ true
