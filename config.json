@@ -1,5 +1,5 @@
 {
-	"host": "46.4.95.80:59958",
+	"host": "46.4.95.80",
 	"port": "59958",
 	"username": "bot",
 	"logger": [ true
